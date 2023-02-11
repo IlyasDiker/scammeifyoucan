@@ -24,6 +24,11 @@ useHead({
         {name:'og:title', content: '"How to Scam People" | Best seller book of the year.'},
         {name:'og:description', content: 'Get lost in a captivating world of con artists and learn valuable lessons on avoiding scams in the future with this must-read book.'},
         {name:'og:image', content: 'https://scammeifyoucan.vercel.app/large-cover.webp'},
+        {name:'og:image:alt', content: 'A Cover for the book "How to Scam People"'},
+        {name:'og:site_name', content: 'How to Scam People'},
+        {name:'og:locale', content: 'en'},
+        {name:'og:image:width', content: '1200'},
+        {name:'og:image:height', content: '630'},
     ]
 })
 </script>
