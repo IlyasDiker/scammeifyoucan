@@ -39,8 +39,7 @@
                     <span class="ml-4">Con artists need to be smart and able to think on their feet in order to come up with new scams and avoid getting caught.</span>
                 </li>
             </ul>
-            <p class="mt-8">By the end of the book, you’ll have all the confidence you need to dig in and start creating
-                beautiful icons that can hold their own against any of the sets you can find online.</p>
+            <p class="mt-8">At the end of it all, you will hopefully have all the confidence you need to start your own scam system and understand everything about scamming.</p>
             <p class="mt-10"><a class="text-base font-medium text-green-600 hover:text-green-800"
                     href="/#free-chapters">Get two free chapters straight to your inbox<!-- --> <span
                         aria-hidden="true">→</span></a></p>
